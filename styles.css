@@ -13,6 +13,9 @@ h1 {
 
 .rainbow{
     animation: colorRotate 6s linear 0s infinite;
+    text-align: center;
+    font-family: "Times New Roman", sans-serif;
+    font-weight: bold;
 }
 
 @keyframes colorRotate {
