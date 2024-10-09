@@ -6,6 +6,18 @@ h1 {
     font-weight: bold;
 }
 
+h2 {
+    text-align: center;
+    font-family: "Times New Roman", sans-serif;
+    font-weight: bold;
+}
+
+h3 {
+    text-align: center;
+    font-family: "Times New Roman", sans-serif;
+    font-weight: bold;
+}
+
 .rainbow{
     animation: colorRotate 6s linear 0s infinite;
     text-align: center;
